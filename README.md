@@ -6,3 +6,6 @@
 
 # Rofi
 - Add the rofi folder into user/.config/
+
+# Misc
+- Find Keyboard app, and turn on Enable key repeat toggle.
