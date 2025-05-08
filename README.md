@@ -9,3 +9,4 @@
 
 # Misc
 - Find Keyboard app, and turn on Enable key repeat toggle.
+- At the bottom bar, pinned Thunar, Terminal, Vivaldi and Bitwarden.
