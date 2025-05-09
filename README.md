@@ -6,12 +6,11 @@
 
 # Rofi
 - Install through the terminal with `sudo apt install rofi`.
-- 
+- Copy the rofi folder from this repo into `~/.config/`
+- Go to Keyboard app, Shortcuts, Add custom shortcut. Add shortcut `rofi -show drun` with `Super + R`
 
 # Filesystem
 - Install Thunar through the package manager.
-- Copy the rofi folder from this repo into `~/.config/`
-- Go to Keyboard app, Shortcuts, Add custom shortcut. Add shortcut `rofi -show drun` with `Super + R`
 
 # Misc
 - Find Keyboard app, and turn on Enable key repeat toggle.
