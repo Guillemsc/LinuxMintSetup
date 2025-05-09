@@ -4,22 +4,28 @@
 - Find Themes app, and select Papirus-Dark for icons, and DMZ-Black for pointer.
 - Set bottom bar icons to the center.
 
+# Rofi
+- Install through the terminal with `sudo apt install rofi`.
+- 
+
 # Filesystem
 - Install Thunar through the package manager.
+- Copy the rofi folder from this repo into `~/.config/`
+- Go to Keyboard app, Shortcuts, Add custom shortcut. Add shortcut `rofi -show drun` with `Super + R`
 
 # Misc
 - Find Keyboard app, and turn on Enable key repeat toggle.
-- At the bottom bar, pinned Thunar, Terminal, Vivaldi and Bitwarden.
+- At the bottom bar, pinned Thunar, Terminal, Vivaldi, Spotify and Bitwarden.
 - Find Sound app, Sounds, and disable Showing notification sound.
 
 # Development
-- Install SmartGit by downloading the program, and placing it on ~/. Then add it as launcher app. 
-- Install git with sudo apt-get install git.
-- Create ~/.local/share/unity3d/ for unity to work properly.
+- Install SmartGit by downloading the program, and placing it on `~/`. Then add it as launcher app. 
+- Install git with `sudo apt-get install git`.
+- Create `~/.local/share/unity3d/` for unity to work properly.
 
 # Adding Launcher Apps
-- Go to ~/.local/share/applications/
-- Create a file named myapp.desktop
+- Go to `~/.local/share/applications/`.
+- Create a file named `myapp.desktop`.
 - Paste this adjusting for the paths:
 ```
 [Desktop Entry]
@@ -31,7 +37,7 @@ Icon=/home/yourusername/path/to/icon.png
 Terminal=false
 Categories=Utility;
 ```
-- Run the newly created myapp.desktop file.
-- Log out and back in, or un this to refresh immediately: update-desktop-database ~/.local/share/applications
+- Run the newly created `myapp.desktop` file.
+- Log out and back in, or un this to refresh immediately: `update-desktop-database ~/.local/share/applications`.
 
 
