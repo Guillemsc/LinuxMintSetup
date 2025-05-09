@@ -1,8 +1,9 @@
 # LinuxMintSetup
 
 # Theming
-- Find Themes app, and select Papirus-Dark for icons, and DMZ-Black for pointer.
+- Find Themes app, and select `Papirus-Dark` for icons, and `DMZ-Black` for pointer.
 - Set bottom bar icons to the center.
+- Right click on the Menu icon, Configure, Icon, and select `start-here-symbolic`.
 
 # Rofi
 - Install through the terminal with `sudo apt install rofi`.
