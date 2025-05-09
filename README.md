@@ -44,7 +44,7 @@ Categories=Utility;
 - Log out and back in, or un this to refresh immediately: `update-desktop-database ~/.local/share/applications`.
 
 # Local Network Folder Sharing
-- Install samba on all machines
+- Install samba on all machines.
 - On hosting machine create shared folder with appropiate permissions, with `chmod 755 /home/YOUR_USERNAME` and `chmod 777 /home/YOUR_USERNAME/Shared`.
 - On hosting machine, at `etc/samba/smb.config` add this:
 ```
