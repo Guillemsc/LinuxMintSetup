@@ -43,4 +43,15 @@ Categories=Utility;
 - Run the newly created `myapp.desktop` file.
 - Log out and back in, or un this to refresh immediately: `update-desktop-database ~/.local/share/applications`.
 
+# Local Network Folder Sharing
+- Install samba
+- On `etc/samba/smb.config` add this:
+```
+[Shared]
+path = /home/guillem/Shared
+browseable = yes
+read only = no
+guest ok = yes
+```
+
 
