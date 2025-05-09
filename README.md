@@ -4,6 +4,7 @@
 - Find Themes app, and select `Papirus-Dark` for icons, and `DMZ-Black` for pointer.
 - Set bottom bar icons to the center.
 - Right click on the Menu icon, Configure, Icon, and select `start-here-symbolic`.
+- Right click on the bottom bar, Panel Settings, Right Zone, and select 16px for colored icon size and symbolic icon sizes.
 
 # Rofi
 - Install through the terminal with `sudo apt install rofi`.
