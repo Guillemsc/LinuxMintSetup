@@ -22,6 +22,10 @@
 - Install git with `sudo apt-get install git`.
 - Create `~/.local/share/unity3d/` for unity to work properly.
 
+# Steam
+- To enable proton, go to Steam, Settings, Compatability, and enable the toggle Steam Play for all the titles.
+- Available games: [https://www.protondb.com/app/3241660](https://www.protondb.com/app/3241660).
+
 # Adding Launcher Apps
 - Go to `~/.local/share/applications/`.
 - Create a file named `myapp.desktop`.
