@@ -11,3 +11,8 @@
 - Find Keyboard app, and turn on Enable key repeat toggle.
 - At the bottom bar, pinned Thunar, Terminal, Vivaldi and Bitwarden.
 - Find Sound app, Sounds, and disable Showing notification sound.
+
+# Development
+- Install git with sudo apt-get install git.
+- Create ~/.local/share/unity3d/ for unity to work properly.
+
