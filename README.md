@@ -13,6 +13,23 @@
 - Find Sound app, Sounds, and disable Showing notification sound.
 
 # Development
+- Install SmartGit by downloading the program, and placing it on ~/. 
 - Install git with sudo apt-get install git.
 - Create ~/.local/share/unity3d/ for unity to work properly.
+
+# Adding launcher apps
+- Go to ~/.local/share/applications/
+- Create a file named myapp.desktop
+- Paste this adjusting for the paths:
+```
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=My App
+Exec=/home/yourusername/path/to/your-app.sh
+Icon=/home/yourusername/path/to/icon.png
+Terminal=false
+Categories=Utility;
+```
+
 
