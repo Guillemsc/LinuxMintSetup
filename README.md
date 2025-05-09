@@ -56,5 +56,6 @@ guest ok = yes
 ```
 - Look for hosting machine ip with command `ip a | grep inet`.
 - On machines that want to join, on the file explorer path, look for `smb://machineip/Shared/`.
+- After that, bookmark the shared folder on the file explorer.
 
 
