@@ -17,7 +17,7 @@
 - Install git with sudo apt-get install git.
 - Create ~/.local/share/unity3d/ for unity to work properly.
 
-# Adding launcher apps
+# Adding Launcher Apps
 - Go to ~/.local/share/applications/
 - Create a file named myapp.desktop
 - Paste this adjusting for the paths:
