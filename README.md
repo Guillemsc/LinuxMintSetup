@@ -14,7 +14,7 @@
 # Filesystem
 - Install Thunar through the package manager.
 
-# Screnshot
+# Screenshot
 - Install Flameshot through the package manager.
 - Set it to run at startup.
 - Add shortcut with command `flameshot gui` and key `Print`.
