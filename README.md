@@ -33,6 +33,7 @@
 # Misc
 - At the bottom bar, pinned Thunar, Terminal, Vivaldi, Spotify and Bitwarden.
 - Find Sound app, Sounds, and disable Showing notification sound.
+- On the bottom bar clock, click it, click Date and Time Settings, and enable the toggle Display the date.
 
 # Development
 - Install SmartGit by downloading the program, and placing it on `~/`. Then add it as launcher app. 
