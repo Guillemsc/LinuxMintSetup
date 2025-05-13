@@ -43,6 +43,7 @@
 # Steam
 - To enable proton, go to Steam, Settings, Compatability, and enable the toggle Steam Play for all the titles.
 - Available games: [https://www.protondb.com/app/3241660](https://www.protondb.com/app/3241660).
+- You may need to force the use of proton on some games that don't work with the native executable. This is done by left clicking on the game on the library, Properties, Compatibility, and enabling Force the use of a specific Steam Play compatibility tool. 
 
 # Adding Launcher Apps
 - Go to `~/.local/share/applications/`.
