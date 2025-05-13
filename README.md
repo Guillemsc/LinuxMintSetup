@@ -8,11 +8,16 @@
 
 # Rofi
 - Install through the terminal with `sudo apt install rofi`.
-- Copy the rofi folder from this repo into `~/.config/`
-- Go to Keyboard app, Shortcuts, Add custom shortcut. Add shortcut `rofi -show drun` with `Super + R`
+- Copy the rofi folder from this repo into `~/.config/`.
+- Go to Keyboard app, Shortcuts, Add custom shortcut. Add shortcut with command `rofi -show drun` and key `Super + R`.
 
 # Filesystem
 - Install Thunar through the package manager.
+
+# Screnshot
+- Install Flameshot through the package manager.
+- Set it to run at startup.
+- Add shortcut with command `flameshot gui` and key `Print`.
 
 # Misc
 - Find Keyboard app, and turn on Enable key repeat toggle.
