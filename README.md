@@ -1,4 +1,6 @@
 # LinuxMintSetup
+![image](https://github.com/user-attachments/assets/339fdba4-57c9-484d-bf22-3accdb37a1c6)
+
 
 # Theming
 - Find Themes app, and select `Papirus-Dark` for icons, and `DMZ-Black` for pointer.
