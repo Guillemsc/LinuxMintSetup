@@ -60,7 +60,7 @@ Categories=Utility;
 
 # Local Network Folder Sharing
 - Install samba on all machines.
-- On hosting machine create shared folder with appropiate permissions, with `chmod 755 /home/YOUR_USERNAME` and `chmod 777 /home/YOUR_USERNAME/Shared`.
+- On hosting machine create shared folder with appropiate permissions, with `chmod 755 /home/<YOUR_USERNAME>` and `chmod 777 /home/<YOUR_USERNAME>/Shared`.
 - On hosting machine, at `etc/samba/smb.config` add this:
 ```
 [Shared]
@@ -70,7 +70,7 @@ read only = no
 guest ok = yes
 ```
 - Look for hosting machine ip with command `ip a | grep inet`.
-- On machines that want to join, on the file explorer path, look for `smb://machineip/Shared/`.
+- On machines that want to join, on the file explorer path, look for `smb://<MACHINE_IP>/Shared/`.
 - After that, bookmark the shared folder on the file explorer.
 
 
