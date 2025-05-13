@@ -25,8 +25,10 @@
 - On Colors, Palette, select GNOME.
 - On the Keyboard app, modify the shortcut `Launch terminal`, to `Super + T`.
 
-# Misc
+# Keyboard
 - Find Keyboard app, and turn on Enable key repeat toggle.
+
+# Misc
 - At the bottom bar, pinned Thunar, Terminal, Vivaldi, Spotify and Bitwarden.
 - Find Sound app, Sounds, and disable Showing notification sound.
 
