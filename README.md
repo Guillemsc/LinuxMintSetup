@@ -16,6 +16,7 @@
 
 # Filesystem
 - Install Thunar through the package manager.
+- Add shortcut with command `thunar` and key `Super + E`.
 
 # Screenshot
 - Install Flameshot through the package manager.
