@@ -79,4 +79,7 @@ guest ok = yes
 - On machines that want to join, on the file explorer path, look for `smb://<MACHINE_IP>/Shared/`.
 - After that, bookmark the shared folder on the file explorer.
 
+# Google Drive (or others)
+- Open the Online Accounts app and add the prefered acoount.
+
 
