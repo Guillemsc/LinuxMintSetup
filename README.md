@@ -36,6 +36,7 @@
 # Misc
 - At the bottom bar, pinned Thunar, Terminal, Vivaldi, Spotify and Bitwarden.
 - Find Sound app, Sounds, and disable Showing notification sound.
+- For installing Preload, install with `sudo apt install preload`.
 
 # Development
 - Install SmartGit by downloading the program, and placing it on `~/`. Then add it as launcher app. 
