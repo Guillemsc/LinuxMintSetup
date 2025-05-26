@@ -38,6 +38,9 @@
 - Find Sound app, Sounds, and disable Showing notification sound.
 - For installing Preload, install with `sudo apt install preload`.
 
+# Windows
+- Go to the Keyboard app, shortcuts, and set the shortcuts for Center window on screen to: `Super + Up` and `Super + Down`.
+
 # Development
 - Install SmartGit by downloading the program, and placing it on `~/`. Then add it as launcher app. 
 - Install git with `sudo apt-get install git`.
