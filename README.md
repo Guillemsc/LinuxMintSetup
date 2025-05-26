@@ -31,7 +31,7 @@
 - On the Keyboard app, modify the shortcut `Launch terminal`, to `Super + T`.
 
 # Keyboard
-- Find Keyboard app, and turn on Enable key repeat toggle.
+- On the Keyboard app, and turn on Enable key repeat toggle.
 
 # Misc
 - At the bottom bar, pinned Thunar, Terminal, Vivaldi, Spotify and Bitwarden.
@@ -39,7 +39,7 @@
 - For installing Preload, install with `sudo apt install preload`.
 
 # Windows
-- Go to the Keyboard app, shortcuts, and set the shortcuts for Center window on screen to: `Super + Up` and `Super + Down`.
+- On the Keyboard app, shortcuts, and set the shortcuts for Center window on screen to: `Super + Up` and `Super + Down`.
 
 # Development
 - Install SmartGit by downloading the program, and placing it on `~/`. Then add it as launcher app. 
