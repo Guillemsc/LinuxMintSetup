@@ -42,7 +42,7 @@
 - On the Keyboard app, shortcuts, and set the shortcuts for Center window on screen to: `Super + Up` and `Super + Down`.
 
 # Development
-- Install SmartGit by downloading the program, and placing it on `~/`. Then add it as launcher app. 
+- Install GitKraken. 
 - Install git with `sudo apt-get install git`.
 - Create `~/.local/share/unity3d/` for unity to work properly.
 
