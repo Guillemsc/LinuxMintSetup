@@ -8,6 +8,7 @@
 - Right click on the Menu icon, Configure, Icon, and select `start-here-symbolic`.
 - Right click on the bottom bar, Panel Settings, Right Zone, and select 16px for colored icon size and symbolic icon sizes.
 - On the bottom bar clock, click it, click Date and Time Settings, and enable the toggle Display the date.
+- On Font Selection, select Ubuntu Mono for all.
 
 # Rofi
 - Install through the terminal with `sudo apt install rofi`.
