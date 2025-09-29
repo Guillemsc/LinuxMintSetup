@@ -18,6 +18,7 @@
 - Install Thunar through the package manager.
 - Add shortcut with command `thunar` and key `Super + E`.
 - On Thunar, go to Edit, Preferences, Behavior, and enable Open new thunar instances as tabs.
+- Install 'extract Here' context menu with `sudo apt install thunar-archive-plugin`. Restart Thunar with `thunar -q`.
 
 # Screenshot
 - Install Flameshot through the package manager.
