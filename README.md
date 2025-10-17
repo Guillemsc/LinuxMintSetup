@@ -70,6 +70,9 @@ Categories=Utility;
 - Run the newly created `myapp.desktop` file.
 - Log out and back in, or un this to refresh immediately: `update-desktop-database ~/.local/share/applications`.
 
+# Manually Installing Apps
+- Add them to `/home/<YOUR_USERNAME>/Applications/`
+
 # Local Network Folder Sharing
 - Install samba on all machines.
 - On hosting machine create shared folder with appropiate permissions, with `chmod 755 /home/<YOUR_USERNAME>` and `chmod 777 /home/<YOUR_USERNAME>/Shared`.
