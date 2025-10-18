@@ -72,6 +72,7 @@ Categories=Utility;
 
 # Manually Installing Apps
 - Add them to `/home/<YOUR_USERNAME>/Applications/`
+- For running AppImage files, Right-click the AppImage file → Properties, go to the Permissions tab, check “Allow executing file as program”.
 
 # Local Network Folder Sharing
 - Install samba on all machines.
