@@ -68,11 +68,11 @@ Terminal=false
 Categories=Utility;
 ```
 - Run the newly created `myapp.desktop` file.
-- Log out and back in, or un this to refresh immediately: `update-desktop-database ~/.local/share/applications`.
 
 # Manually Installing Apps
 - Add them to `/home/<YOUR_USERNAME>/Applications/`
 - For running AppImage files, Right-click the AppImage file → Properties, go to the Permissions tab, check “Allow executing file as program”.
+- To extract AppImage files, do `<pathToAppImage> --appimage-extract`.
 
 # Local Network Folder Sharing
 - Install samba on all machines.
